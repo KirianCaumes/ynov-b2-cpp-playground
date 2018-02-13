@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kiki_/CLionProjects/RPG/Player.cpp
+Player.h
+C:/Users/kiki_/CLionProjects/RPG/Player.h
+
+C:/Users/kiki_/CLionProjects/RPG/Player.h
+string
+-
+Weapon.h
+C:/Users/kiki_/CLionProjects/RPG/Weapon.h
+
+C:/Users/kiki_/CLionProjects/RPG/Weapon.cpp
+Weapon.h
+C:/Users/kiki_/CLionProjects/RPG/Weapon.h
+
+C:/Users/kiki_/CLionProjects/RPG/Weapon.h
+string
+-
+WeaponType.h
+C:/Users/kiki_/CLionProjects/RPG/WeaponType.h
+
+C:/Users/kiki_/CLionProjects/RPG/WeaponType.cpp
+WeaponType.h
+C:/Users/kiki_/CLionProjects/RPG/WeaponType.h
+
+C:/Users/kiki_/CLionProjects/RPG/WeaponType.h
+
+C:/Users/kiki_/CLionProjects/RPG/main.cpp
+iostream
+-
+string
+-
+Weapon.h
+C:/Users/kiki_/CLionProjects/RPG/Weapon.h
+Player.h
+C:/Users/kiki_/CLionProjects/RPG/Player.h
+
